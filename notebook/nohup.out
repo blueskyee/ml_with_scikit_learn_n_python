@@ -1,0 +1,48 @@
+[I 17:18:48.548 NotebookApp] Serving notebooks from local directory: /Users/henry/Documents/github/ml_with_scikit_learn_n_python/notebook
+[I 17:18:48.548 NotebookApp] 0 active kernels 
+[I 17:18:48.548 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=51bf27a79ebbcd4c5a031fa4b1ff1126f2925377844166d2
+[I 17:18:48.548 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:18:48.549 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=51bf27a79ebbcd4c5a031fa4b1ff1126f2925377844166d2
+[I 17:18:49.224 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 17:18:56.052 NotebookApp] Creating new notebook in 
+[I 17:18:56.961 NotebookApp] Kernel started: 070ac87c-dbf9-4932-b806-1c268d3f0597
+[W 17:18:57.009 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180615171847 (::1) 24.34ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python2
+[I 17:20:56.924 NotebookApp] Saving file at /2_svm_example.ipynb
+[I 17:22:56.989 NotebookApp] Saving file at /2_svm_example.ipynb
+[I 17:45:54.494 NotebookApp] interrupted
+Serving notebooks from local directory: /Users/henry/Documents/github/ml_with_scikit_learn_n_python/notebook
+1 active kernels 
+The Jupyter Notebook is running at: http://localhost:8888/?token=51bf27a79ebbcd4c5a031fa4b1ff1126f2925377844166d2
+Shutdown this notebook server (y/[n])? [C 17:45:55.732 NotebookApp] received signal 2, stopping
+[I 17:45:55.744 NotebookApp] Shutting down kernels
+[C 17:45:55.995 NotebookApp] received signal 2, stopping
+[C 17:45:56.172 NotebookApp] received signal 2, stopping
+[I 17:45:56.483 NotebookApp] Kernel shutdown: 070ac87c-dbf9-4932-b806-1c268d3f0597
+[I 17:56:20.101 NotebookApp] Serving notebooks from local directory: /Users/henry/Documents/github/ml_with_scikit_learn_n_python/notebook
+[I 17:56:20.101 NotebookApp] 0 active kernels 
+[I 17:56:20.101 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=2ba4c826691fd85042d50e2e732b26a65318e3c12bf29bd7
+[I 17:56:20.101 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:56:20.102 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=2ba4c826691fd85042d50e2e732b26a65318e3c12bf29bd7
+[I 17:56:20.901 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 17:59:13.830 NotebookApp] Creating new notebook in 
+[I 17:59:15.088 NotebookApp] Kernel started: 6909fb3c-bd42-4038-aa17-1396c63d7c84
+[W 17:59:15.171 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180615175619 (::1) 31.13ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python2
+[I 18:01:15.102 NotebookApp] Saving file at /3_parsing_data.ipynb
+[I 18:02:25.324 NotebookApp] Kernel interrupted: 6909fb3c-bd42-4038-aa17-1396c63d7c84
+[I 18:03:15.598 NotebookApp] Saving file at /3_parsing_data.ipynb
+[I 18:06:46.666 NotebookApp] interrupted
+Serving notebooks from local directory: /Users/henry/Documents/github/ml_with_scikit_learn_n_python/notebook
+1 active kernels 
+The Jupyter Notebook is running at: http://localhost:8888/?token=2ba4c826691fd85042d50e2e732b26a65318e3c12bf29bd7
+Shutdown this notebook server (y/[n])? [C 18:06:47.329 NotebookApp] received signal 2, stopping
+[I 18:06:47.330 NotebookApp] Shutting down kernels
+[C 18:06:47.565 NotebookApp] received signal 2, stopping
+[I 18:06:47.869 NotebookApp] Kernel shutdown: 6909fb3c-bd42-4038-aa17-1396c63d7c84
